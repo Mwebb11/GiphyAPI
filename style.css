@@ -1,0 +1,6 @@
+.container{
+    background: purple;
+    border-color:pink;
+    border-width: 10px;
+    border-style: dashed;
+}
